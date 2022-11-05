@@ -1,0 +1,4 @@
+c:\users\91917\documents\visual studio 2010\Projects\Patternstar5\Patternstar5\bin\Debug\Patternstar5.exe
+c:\users\91917\documents\visual studio 2010\Projects\Patternstar5\Patternstar5\bin\Debug\Patternstar5.pdb
+c:\users\91917\documents\visual studio 2010\Projects\Patternstar5\Patternstar5\obj\x86\Debug\Patternstar5.exe
+c:\users\91917\documents\visual studio 2010\Projects\Patternstar5\Patternstar5\obj\x86\Debug\Patternstar5.pdb

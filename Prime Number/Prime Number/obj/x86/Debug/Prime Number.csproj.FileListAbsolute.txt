@@ -1,0 +1,4 @@
+c:\users\91917\documents\visual studio 2010\Projects\Prime Number\Prime Number\bin\Debug\Prime Number.exe
+c:\users\91917\documents\visual studio 2010\Projects\Prime Number\Prime Number\bin\Debug\Prime Number.pdb
+c:\users\91917\documents\visual studio 2010\Projects\Prime Number\Prime Number\obj\x86\Debug\Prime Number.exe
+c:\users\91917\documents\visual studio 2010\Projects\Prime Number\Prime Number\obj\x86\Debug\Prime Number.pdb

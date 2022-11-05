@@ -1,0 +1,4 @@
+c:\users\91917\documents\visual studio 2010\Projects\SortArray\SortArray\bin\Debug\SortArray.exe
+c:\users\91917\documents\visual studio 2010\Projects\SortArray\SortArray\bin\Debug\SortArray.pdb
+c:\users\91917\documents\visual studio 2010\Projects\SortArray\SortArray\obj\x86\Debug\SortArray.exe
+c:\users\91917\documents\visual studio 2010\Projects\SortArray\SortArray\obj\x86\Debug\SortArray.pdb

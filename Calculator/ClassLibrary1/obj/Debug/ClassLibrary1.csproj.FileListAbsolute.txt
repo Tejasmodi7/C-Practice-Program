@@ -1,0 +1,5 @@
+c:\users\91917\documents\visual studio 2010\Projects\Calculator\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\91917\documents\visual studio 2010\Projects\Calculator\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\91917\documents\visual studio 2010\Projects\Calculator\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\91917\documents\visual studio 2010\Projects\Calculator\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\91917\Documents\Visual Studio 2010\Projects\Calculator\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache

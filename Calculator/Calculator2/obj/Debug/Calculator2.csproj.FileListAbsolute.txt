@@ -1,0 +1,4 @@
+c:\users\91917\documents\visual studio 2010\Projects\Calculator\Calculator2\bin\Debug\Calculator2.dll
+c:\users\91917\documents\visual studio 2010\Projects\Calculator\Calculator2\bin\Debug\Calculator2.pdb
+c:\users\91917\documents\visual studio 2010\Projects\Calculator\Calculator2\obj\Debug\Calculator2.dll
+c:\users\91917\documents\visual studio 2010\Projects\Calculator\Calculator2\obj\Debug\Calculator2.pdb

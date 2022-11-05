@@ -1,0 +1,4 @@
+c:\users\91917\documents\visual studio 2010\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+c:\users\91917\documents\visual studio 2010\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+c:\users\91917\documents\visual studio 2010\Projects\Interfaces\Interfaces\obj\x86\Debug\Interfaces.exe
+c:\users\91917\documents\visual studio 2010\Projects\Interfaces\Interfaces\obj\x86\Debug\Interfaces.pdb

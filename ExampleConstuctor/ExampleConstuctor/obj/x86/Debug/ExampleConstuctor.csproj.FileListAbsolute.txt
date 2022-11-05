@@ -1,0 +1,4 @@
+c:\users\91917\documents\visual studio 2010\Projects\ExampleConstuctor\ExampleConstuctor\bin\Debug\ExampleConstuctor.exe
+c:\users\91917\documents\visual studio 2010\Projects\ExampleConstuctor\ExampleConstuctor\bin\Debug\ExampleConstuctor.pdb
+c:\users\91917\documents\visual studio 2010\Projects\ExampleConstuctor\ExampleConstuctor\obj\x86\Debug\ExampleConstuctor.exe
+c:\users\91917\documents\visual studio 2010\Projects\ExampleConstuctor\ExampleConstuctor\obj\x86\Debug\ExampleConstuctor.pdb

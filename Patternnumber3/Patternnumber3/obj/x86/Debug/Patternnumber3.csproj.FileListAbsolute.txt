@@ -1,0 +1,4 @@
+c:\users\91917\documents\visual studio 2010\Projects\Patternnumber3\Patternnumber3\bin\Debug\Patternnumber3.exe
+c:\users\91917\documents\visual studio 2010\Projects\Patternnumber3\Patternnumber3\bin\Debug\Patternnumber3.pdb
+c:\users\91917\documents\visual studio 2010\Projects\Patternnumber3\Patternnumber3\obj\x86\Debug\Patternnumber3.exe
+c:\users\91917\documents\visual studio 2010\Projects\Patternnumber3\Patternnumber3\obj\x86\Debug\Patternnumber3.pdb

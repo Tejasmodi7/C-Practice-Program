@@ -1,0 +1,5 @@
+c:\users\91917\documents\visual studio 2010\Projects\Pattern1star\Pattern1star\bin\Debug\Pattern1star.exe
+c:\users\91917\documents\visual studio 2010\Projects\Pattern1star\Pattern1star\bin\Debug\Pattern1star.pdb
+c:\users\91917\documents\visual studio 2010\Projects\Pattern1star\Pattern1star\obj\x86\Debug\Pattern1star.exe
+c:\users\91917\documents\visual studio 2010\Projects\Pattern1star\Pattern1star\obj\x86\Debug\Pattern1star.pdb
+C:\Users\91917\Documents\Visual Studio 2010\Projects\Pattern1star\Pattern1star\obj\x86\Debug\Pattern1star.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+c:\users\91917\documents\visual studio 2010\Projects\Armstrong\Armstrong\bin\Debug\Armstrong.exe
+c:\users\91917\documents\visual studio 2010\Projects\Armstrong\Armstrong\bin\Debug\Armstrong.pdb
+c:\users\91917\documents\visual studio 2010\Projects\Armstrong\Armstrong\obj\x86\Debug\Armstrong.exe
+c:\users\91917\documents\visual studio 2010\Projects\Armstrong\Armstrong\obj\x86\Debug\Armstrong.pdb

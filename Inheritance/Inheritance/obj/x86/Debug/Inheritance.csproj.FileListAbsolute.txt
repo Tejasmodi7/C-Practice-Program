@@ -1,0 +1,5 @@
+c:\users\91917\documents\visual studio 2010\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+c:\users\91917\documents\visual studio 2010\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+c:\users\91917\documents\visual studio 2010\Projects\Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+c:\users\91917\documents\visual studio 2010\Projects\Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
+C:\Users\91917\documents\visual studio 2010\Projects\Inheritance\Inheritance\obj\x86\Debug\Inheritance.csprojResolveAssemblyReference.cache

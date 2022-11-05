@@ -1,0 +1,5 @@
+c:\users\91917\documents\visual studio 2010\Projects\Greater integer program\Greater integer program\bin\Debug\Greater integer program.exe
+c:\users\91917\documents\visual studio 2010\Projects\Greater integer program\Greater integer program\bin\Debug\Greater integer program.pdb
+c:\users\91917\documents\visual studio 2010\Projects\Greater integer program\Greater integer program\obj\x86\Debug\Greater integer program.exe
+c:\users\91917\documents\visual studio 2010\Projects\Greater integer program\Greater integer program\obj\x86\Debug\Greater integer program.pdb
+C:\Users\91917\documents\visual studio 2010\Projects\Greater integer program\Greater integer program\obj\x86\Debug\Greater integer program.csprojResolveAssemblyReference.cache

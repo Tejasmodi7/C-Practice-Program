@@ -1,0 +1,4 @@
+C:\Users\91917\documents\visual studio 2010\Projects\swap number\swap number\bin\Debug\swap number.exe
+C:\Users\91917\documents\visual studio 2010\Projects\swap number\swap number\bin\Debug\swap number.pdb
+C:\Users\91917\documents\visual studio 2010\Projects\swap number\swap number\obj\x86\Debug\swap number.exe
+C:\Users\91917\documents\visual studio 2010\Projects\swap number\swap number\obj\x86\Debug\swap number.pdb
